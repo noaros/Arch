@@ -11,4 +11,4 @@ I was more interested in the manual install journey, but I flirted with the conf
 
 Once in the system, it becomes a matter of how little I need to add to it to get it to behave acceptably. I was a bit surprised *Chrome* wasn't readily available without wrinkles, but used that as an excuse to just use *Firefox* instead. At first I tried to roll with virtual consoles only and no window manager other than *cage* to launch *Firefox*, but copy paste between the consoles and browser seemed to be too annoying to get working. So I opted to give *Sway* a try, and like it so far. Touchpad scroll direction was inverted, but fixed with a Sway configuration file.
 
-Next problem was sound. That went relatively smooth on the 2nd attempt of installing a bunch of things. Though it does sound a bit fuzzy..
+Next problem was sound. That went relatively smooth on the 2nd attempt of installing a bunch of things. Though it does sound a bit fuzzy.. Yes I needed the nvidia graphics drivers to fix the muffled sound, as well as adjusting volume with *alsamixer*.
