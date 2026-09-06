@@ -16,3 +16,5 @@ Playing with window manager options is of course one of the most fun aspects of 
 Next problem was sound, which I didn't notice until trying videos in the browser. It sounded garbled. I needed the NVIDIA graphics drivers to fix the muffled sound. Sway complains, but the warning is suppressed with a startup option.
 
 At first I didn't use an app launcher, but then switched to the simple *wmenu*. It at least takes care of the background window when opening Firefox. A base Arch system + editor + graphics driver + sway seems a proper starting point for getting things done, but I'm sure I'll hit a few more rough spots at some point.
+
+The most irksome part of the switch has been dealing with Word. I can at least use the online version, but then I can not work directly with local files, and moving to cloud makes simple things such as emailing or attaching a resume suddenly a bit awkward.
