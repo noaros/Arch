@@ -18,3 +18,5 @@ Next problem was sound, which I didn't notice until trying videos in the browser
 At first I didn't use an app launcher, but then switched to the simple *wmenu*. It at least takes care of the background window when opening Firefox. A base Arch system + editor + graphics driver + sway seems a proper starting point for getting things done, but I'm sure I'll hit a few more rough spots at some point.
 
 The most irksome part of the switch has been dealing with Word. I can at least use the online version, but then I can not work directly with local files, and moving to cloud makes simple things such as emailing or attaching a resume suddenly a bit awkward.
+
+I missed a few things from my initial attempt above. One thing that annoyed me was lack of battery % indicator, but was able to add a script to the sway config for that. Even still, my laptop hilarious shuts off with no warning if it gets to zero. And I'm lacking a login manager. 
