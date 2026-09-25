@@ -19,4 +19,6 @@ At first I didn't use an app launcher, but then switched to the simple *wmenu*. 
 
 The most irksome part of the switch has been dealing with Word. I can at least use the online version, but then I can not work directly with local files, and moving to cloud makes simple things such as emailing or attaching a resume suddenly a bit awkward.
 
-I missed a few things from my initial attempt above. One thing that annoyed me was lack of battery % indicator, but was able to add a script to the sway config for that. Even still, my laptop hilarious shuts off with no warning if it gets to zero. And I'm lacking a login manager. 
+I missed a few things from my initial attempt above. One thing that annoyed me was lack of battery % indicator, but was able to add a script to the sway config for that. Even still, my laptop hilarious shuts off with no warning if it gets to zero. And I'm lacking a login manager.
+
+Ok so I added batsignal to give me a battery alert. I comes with a systemd service, so even though it made me a little sad since I had make it so far without, I went ahead and added systemd and enabled the batsignal service.
